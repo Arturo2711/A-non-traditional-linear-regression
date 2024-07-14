@@ -29,3 +29,9 @@ In this equation:
 </p>
 
 Finally, to implement linear regression using Particle Swarm Optimization, we aim to find the minimum of the MSE function to perform the regression. We consider each particle as a vector of weights for our model.
+
+The result for the dataset we have considered is the following:
+
+<p align="center">
+  <img src="assets\linear_model.png" alt="Result" width="400px"/>
+</p>
